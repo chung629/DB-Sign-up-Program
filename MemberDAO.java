@@ -10,8 +10,8 @@ public class MemberDAO {
 
 	private static final String DRIVER = "org.mariadb.jdbc.Driver";
 	private static final String URL = "jdbc:mariadb://127.0.0.1:3306/MyDB";
-	private static final String PASS = "hyunho8700";
-	private static final String USER = "root";
+	private static final String PASS = "pwd";
+	private static final String USER = "id";
 	
 	Member_List mList;
 	
